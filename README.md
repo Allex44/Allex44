@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, Soy Alejandro Gómez</h1>
 <h3 align="center">Un apasionado desarrollador web full-stack que le encanta aprender tecnologías nuevas</h3>
-<iframe src="https://giphy.com/embed/QDjpIL6oNCVZ4qzGs7" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-work-computer-working-QDjpIL6oNCVZ4qzGs7">via GIPHY</a></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allex44&label=Profile%20views&color=0e75b6&style=flat" alt="allex44" /> </p>
 
 - 🔭 Estoy trabajando en **Cineflox, Cookpad y FlautiChat, aun en privado.**
