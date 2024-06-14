@@ -7,7 +7,7 @@
 
 - 👨‍💻 Todos mis proyectos se encuentran en este github [https://github.com/Allex44](https://github.com/Allex44)
 
-- 📚 Tengo conocimiento en varias tecnologías como **PHP, Apache Cordoba, React, Express.js, Django, Python, JavaScript...**
+- 📚 Tengo conocimiento en varias tecnologías como **PHP, Apache Cordoba, React, NodeJS, TypeScript, Express.js, Django, Python, JavaScript...**
 
 - 📫 Como ponerse en contacto conmigo **Allex.gocar@gmail.com**
 
