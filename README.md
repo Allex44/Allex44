@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="310" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTl6aDliY3Fmb3ZlaDlxNzhsNTA5OXJkazlnenpjZWk4d2dkN2t5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allex44&label=Profile%20views&color=0e75b6&style=flat" alt="allex44" /> </p>
 
-- 🔭 Estoy trabajando en **Cineflox, Cookpad y FlautiChat, aun en privado.**
+- 🔭 Estoy trabajando en **Multiples proyectos, aun en privado, una vez terminados los ire posteando de forma publica.**
 
 - 👨‍💻 Todos mis proyectos se encuentran en este github [https://github.com/Allex44](https://github.com/Allex44)
 
